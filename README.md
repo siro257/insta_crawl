@@ -1,5 +1,6 @@
 ﻿# insta_crawl
- A very simple python program that scrapes images from Instagram using Selenium.
+
+### A very simple python program that scrapes images from Instagram using Selenium.
 ------------------------------------------
 ## Usage
 Run the python script, then enter the username. 
