@@ -8,3 +8,5 @@ Run the python script, then enter the username.
 $> python crawl.py 
 $> Enter the username that you wish to crawl: apple
 ```
+
+Images are stored under './img' directory. 
